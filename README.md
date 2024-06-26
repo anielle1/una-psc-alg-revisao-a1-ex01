@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="virus.jpeg" width="300" alt="Virus">
+    <img src="una-psc-alg-revisao-a1-ex01.jpeg" width="300" alt="Virus">
   </a>
 </p>
 
